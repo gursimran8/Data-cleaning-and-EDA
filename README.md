@@ -24,7 +24,7 @@ This project focuses on cleaning and exploring the dataset of customer purchases
 ### Visualizations
 
 ### 1. Box Plot of Purchase Amount
-![Box Plot]([./Images/Box_plot_Purshase_Amount.png](https://github.com/gursimran8/Data-cleaning-and-EDA/blob/main/Images/Box_plot_Purshase_Amount.png))
+![Box Plot](./Images/Box_plot_Purshase_Amount.png)
 
 ### 2. Histogram of Purchase Amounts
 ![Histogram](./Images/histogram_Purchase_Amount.png)
